@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://im14.inviewer.se/skiss/09/09CCKRHYA6.png" alt="Region Uppsala logotyp" width="350"/>
+</p>
 
-<!--
-**RegionUppsala-analys/RegionUppsala-analys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Region Uppsala Analytiker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Välkommen till Region Uppsalas analytikergrupps GitHub-organisation. 
+
+## Om oss
+
+Vi är en grupp analytiker inom Region Uppsala med uppdraget att omvandla data till kunskap för samhällsutveckling.
+
+## Teknisk stack
+
+Våra analyser och verktyg är primärt byggda i **R**, med fokus på:
+
+- Statistisk analys och modellering
+- Visualisering och rapportering (`Quarto`)
+- Automatiserade rapportflöden
+
+## Bidra och kontakt
+
+Är du kollega inom Region Uppsala och vill bidra till ett projekt, eller har du frågor om vårt arbete? Kontakta oss via Region Uppsalas interna kanaler.
+
+---
+
+<p align="center">
+  <em>Region Uppsala – Här växer kunskap och människor</em>
+</p>
