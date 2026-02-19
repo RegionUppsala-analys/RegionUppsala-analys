@@ -6,7 +6,7 @@
 
 # Region Uppsala Analytiker
 
-Välkommen till Region Uppsalas analytikergrupps GitHub-organisation. 
+Välkommen till Region Uppsalas analys GitHub-organisation. 
 
 ## Om oss
 
