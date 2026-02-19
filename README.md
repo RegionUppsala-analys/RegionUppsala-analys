@@ -4,7 +4,7 @@
 
 ---
 
-# Region Uppsala Analytiker
+# Region Uppsala analys
 
 Välkommen till Region Uppsalas analys GitHub-organisation. 
 
