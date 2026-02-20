@@ -22,7 +22,7 @@ Våra analyser och verktyg är primärt byggda i **R**, med fokus på:
 
 ## Bidra och kontakt
 
-Är du kollega inom Region Uppsala och vill bidra till ett projekt, eller har du frågor om vårt arbete? Kontakta oss via 📧[regionalutveckling.analys@regionuppsala.se](regionalutveckling.analys@regionuppsala.se).
+Är du kollega inom Region Uppsala och vill bidra till ett projekt, eller har du frågor om vårt arbete? Kontakta oss på 📧[regionalutveckling.analys@regionuppsala.se](regionalutveckling.analys@regionuppsala.se).
 
 ---
 
