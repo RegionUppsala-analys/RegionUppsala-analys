@@ -24,33 +24,19 @@ Våra analyser och verktyg är primärt byggda i **R**, med fokus på:
 
 Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala län.
 
-### 🏘️ Bostadsmarknaden
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/bostadsmarknaden/)  
-Analys av bostadsmarknadens utveckling, lagstiftning och prognos för Uppsala län.
+### 🏘️ [Bostadsmarknaden](https://regionuppsala-analys.github.io/bostadsmarknaden/)  
 
-### 📡 Bredband
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/bredband/)
-Analys av bredbandsutvecklingen i Uppsala län.
+### 📡 [Bredband](https://regionuppsala-analys.github.io/bredband/)
 
-### 🚨 Brott och trygghet
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/brott-trygghet/)
-Analys av brottsutvecklingen i Uppsala län.
+### 🚨 [Brott och trygghet](https://regionuppsala-analys.github.io/brott-trygghet/)
 
-### 👥 Demografi & Socioekonomi
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/demografi-socioekonomi/)  
-Befolkningsprognoser, demografisk utveckling och socioekonomiska förutsättningar.
+### 👥 [Demografi & Socioekonomi](https://regionuppsala-analys.github.io/demografi-socioekonomi/)  
 
-### ⚡ Energi och klimat
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/energi-klimat/)  
-Analys av energiutveckling och klimatpåverkan i Uppsala län.
+### ⚡ [Energi och klimat](https://regionuppsala-analys.github.io/energi-klimat/)  
 
-### 💼 Kompetensförsörjning
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
-Analyser av arbetsmarknadens behov och tillgång på kompetens i Region Uppsala.
+### 💼 [Kompetensförsörjning](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
 
-### 🌿 Miljö
-[📈 Läs rapporten](https://regionuppsala-analys.github.io/miljo/)  
-Miljörapport om Uppsala läns miljötillstånd och hållbarhetsarbete.
+### 🌿 [Miljö](https://regionuppsala-analys.github.io/miljo/)  
 
 
 
