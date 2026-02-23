@@ -20,7 +20,7 @@ Våra analyser och verktyg är primärt byggda i **R**, med fokus på:
 - Visualisering och rapportering (`Quarto`)
 - Automatiserade rapportflöden
 
-## 🌐 Läget i Länet – Rapportserien
+## 🌐 Läget i Länet 
 
 Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala län.
 
