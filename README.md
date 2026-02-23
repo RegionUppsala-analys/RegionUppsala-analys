@@ -28,11 +28,11 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 ### 📡 [Bredband](https://regionuppsala-analys.github.io/bredband/)
 
-### 🚨 [Brott och trygghet](https://regionuppsala-analys.github.io/brott-trygghet/)
+### 🚔 [Brott och trygghet](https://regionuppsala-analys.github.io/brott-trygghet/)
 
 ### 👥 [Demografi & Socioekonomi](https://regionuppsala-analys.github.io/demografi-socioekonomi/)  
 
-### ⚡ [Energi och klimat](https://regionuppsala-analys.github.io/energi-klimat/)  
+### ⛽ [Energi och klimat](https://regionuppsala-analys.github.io/energi-klimat/)  
 
 ### 💼 [Kompetensförsörjning](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
 
