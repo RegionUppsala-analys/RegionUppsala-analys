@@ -44,11 +44,11 @@ Befolkningsprognoser, demografisk utveckling och socioekonomiska förutsättning
 [📈 Läs rapporten](https://regionuppsala-analys.github.io/energi-klimat/)  
 Analys av energiutveckling och klimatpåverkan i Uppsala län.
 
-### 🏢 Kompetensförsörjning
+### 💼 Kompetensförsörjning
 [📈 Läs rapporten](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
 Analyser av arbetsmarknadens behov och tillgång på kompetens i Region Uppsala.
 
-### 🌍 Miljö
+### 🌿 Miljö
 [📈 Läs rapporten](https://regionuppsala-analys.github.io/miljo/)  
 Miljörapport om Uppsala läns miljötillstånd och hållbarhetsarbete.
 
