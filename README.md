@@ -29,7 +29,7 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 Analys av bostadsmarknadens utveckling, lagstiftning och prognos för Uppsala län.
 
 ### 📡 Bredband
-[📈 Läs rapporten](https://github.com/RegionUppsala-analys/bredband)
+[📈 Läs rapporten](https://regionuppsala-analys.github.io/bredband/)
 Analys av bredbandsutvecklingen i Uppsala län.
 
 ### 🚨 Brott och trygghet
