@@ -36,10 +36,12 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 ### 💼 [Kompetensförsörjning](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
 
+### 🎨 [Kultur](https://regionuppsala-analys.github.io/Kultur/)
+
 ### 🌿 [Miljö](https://regionuppsala-analys.github.io/miljo/)  
 
+
 Kommande rapporter:
-Kultur, 
 Folkhälsa, 
 Näringsliv
 
