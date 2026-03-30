@@ -43,7 +43,8 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 Kommande rapporter:
 Folkhälsa, 
-Näringsliv
+Näringsliv,
+Besöksnäring
 
 
 
