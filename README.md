@@ -34,6 +34,8 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 ### ⛽ [Energi och klimat](https://regionuppsala-analys.github.io/energi-klimat/)  
 
+### 🩺 [Folkhälsan](https://regionuppsala-analys.github.io/folkhalsa/)
+
 ### 💼 [Kompetensförsörjning](https://regionuppsala-analys.github.io/kompetensforsorjning/)  
 
 ### 🎨 [Kultur](https://regionuppsala-analys.github.io/Kultur/)
@@ -42,7 +44,6 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 
 Kommande rapporter:
-Folkhälsa, 
 Näringsliv,
 Besöksnäring
 
