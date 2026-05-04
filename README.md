@@ -24,6 +24,8 @@ Våra analyser och verktyg är primärt byggda i **R**, med fokus på:
 
 Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala län.
 
+### ✈️ [Besöksnäring](https://regionuppsala-analys.github.io/Besoksnaring/)
+
 ### 🏘️ [Bostadsmarknaden](https://regionuppsala-analys.github.io/bostadsmarknaden/)  
 
 ### 📡 [Bredband](https://regionuppsala-analys.github.io/bredband/)
