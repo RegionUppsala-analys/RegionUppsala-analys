@@ -46,8 +46,7 @@ Regionala utvecklingsrapporter med analyser om samhällsutvecklingen i Uppsala l
 
 
 Kommande rapporter:
-Näringsliv,
-Besöksnäring
+Näringsliv
 
 
 
